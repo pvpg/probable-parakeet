@@ -40,6 +40,9 @@
             },
             "form_section": {
               "type": "SharedSlice"
+            },
+            "first_year": {
+              "type": "SharedSlice"
             }
           }
         }

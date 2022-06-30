@@ -45,6 +45,68 @@
           }
         }
       },
+      "first_year": {
+        "library": "slices",
+        "id": "first_year",
+        "name": "FirstYear",
+        "description": "FirstYear",
+        "model": {
+          "id": "first_year",
+          "type": "SharedSlice",
+          "name": "FirstYear",
+          "description": "FirstYear",
+          "variations": [
+            {
+              "id": "default",
+              "name": "Default",
+              "docURL": "...",
+              "version": "sktwi1xtmkfgx8626",
+              "description": "FirstYear",
+              "primary": {
+                "meses": {
+                  "type": "StructuredText",
+                  "config": {
+                    "label": "meses",
+                    "placeholder": "A nice description of your product",
+                    "allowTargetBlank": true,
+                    "single": "paragraph"
+                  }
+                }
+              },
+              "items": {},
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+            }
+          ]
+        },
+        "mocks": {
+          "default": {
+            "variation": "default",
+            "name": "Default",
+            "slice_type": "first_year",
+            "items": [],
+            "primary": {
+              "meses": [
+                {
+                  "type": "paragraph",
+                  "text": "Aliqua cupidatat occaecat velit ad sunt sint sint aute aliquip adipisicing irure. Eiusmod reprehenderit magna tempor excepteur commodo ad officia. Mollit tempor aute dolore velit elit commodo ad adipisicing minim adipisicing.",
+                  "spans": []
+                }
+              ]
+            }
+          }
+        },
+        "meta": {
+          "fileName": "index",
+          "extension": "vue"
+        },
+        "screenshotPaths": {
+          "default": {
+            "path": "/Users/paulinagavilan/Desktop/querynprod/.slicemachine/assets/slices/FirstYear/default/preview.png",
+            "width": 800,
+            "height": 128
+          }
+        }
+      },
       "form_section": {
         "library": "slices",
         "id": "form_section",

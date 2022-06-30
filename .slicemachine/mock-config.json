@@ -108,6 +108,18 @@
       "noTitle": {
         "primary": {}
       }
+    },
+    "FirstYear": {
+      "default": {
+        "primary": {
+          "meses": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        }
+      }
     }
   }
 }
