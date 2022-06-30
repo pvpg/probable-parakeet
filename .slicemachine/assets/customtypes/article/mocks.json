@@ -1,0 +1,28 @@
+{
+  "id": "f3da76a9-7e42-49f8-9d2b-dd8a5bcc54d2",
+  "uid": "suscipit-placeat-est",
+  "type": "article",
+  "data": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Grow 24/365 users",
+        "spans": []
+      }
+    ],
+    "publishDate": "2012-03-26",
+    "featuredImage": {
+      "dimensions": {
+        "width": 2000,
+        "height": 1500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1591012911207-0dbac31f37da?w=2000&h=1500&fit=crop"
+    },
+    "enlace": {
+      "link_type": "Web",
+      "url": "http://twitter.com"
+    }
+  }
+}
